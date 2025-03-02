@@ -1,6 +1,8 @@
 # Project Overview
 
-This MVP model for fraud detection represents the model performance comparison, such as XGBoost, CatBoost, Random Forest, Neural Network, and Logistic Regression for a benchmark. The project includes three Jupyter notebooks designed for data analysis, model building, and evaluation tasks. The structure and purpose of each notebook are detailed below:
+> **Note:** This is a prototype and not the actual code used in production.
+
+This MVP fraud detection model serves as a benchmark for evaluating the performance of various machine learning algorithms, including XGBoost, CatBoost, Random Forest, Neural Network, and Logistic Regression. The project comprises three Jupyter notebooks dedicated to data analysis, model development, and performance evaluation. The structure and purpose of each notebook are outlined below:
 
 ## Notebook Summaries
 
