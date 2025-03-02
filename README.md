@@ -1,6 +1,6 @@
 # Project Overview
 
-This project includes three Jupyter notebooks designed for data analysis, model building, and evaluation tasks. The structure and purpose of each notebook are detailed below:
+This MVP model for fraud detection represents the model performance comparison, such as XGBoost, CatBoost, Random Forest, Neural Network, and Logistic Regression for a benchmark. The project includes three Jupyter notebooks designed for data analysis, model building, and evaluation tasks. The structure and purpose of each notebook are detailed below:
 
 ## Notebook Summaries
 
